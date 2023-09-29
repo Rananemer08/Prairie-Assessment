@@ -1,0 +1,24 @@
+SELECT First-name, Last-name,SSN
+FROM mentor;
+
+
+SELECT *
+FROM Mentor
+WHERE office=333;
+
+SELECT *
+FROM Mentor
+WHERE  Salary>1000;
+
+
+SELECT m.First-name, m.Last-name
+from Mentor m
+INNER JOIN Department d
+WHERE m.SSN=d.dep-ID AND D.Name=“English & Life Skills”;
+
+
+SElECT COUNT(no)
+FROM Student
+WHERE Serveral-Skills=“Development”;
+
+SELECT COUNT(SSN) FROM student WHERE Serveral-Skills=“Development”;
