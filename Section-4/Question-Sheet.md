@@ -7,7 +7,7 @@ C. By using JSX, we can compile Javascript code to the browser.
 D. JSX is the engine used by web browser to render Javascript code.
 
 Answer:
-
+b
 ------------
 
 Question:
@@ -20,7 +20,7 @@ D. The virtual DOM is an exact replica of the referenced "DOM", having same func
 
 Answer:
 
-------------
+-c-----------
 
 Question:
 3. What are components in React?
@@ -32,7 +32,7 @@ D. A component is essentially a piece of the user interface. It splits the user 
 
 Answer:
 
-------------
+--d----------
 
 Question:
 4. What are the types of components in React:
@@ -43,7 +43,7 @@ C. State, Prop Components.
 D. Singular, Multiple Components.
 
 Answer:
-
+b
 ------------
 
 Question:
@@ -56,7 +56,7 @@ D. It returns the HTML, which is to be displayed in the component.
 
 Answer:
 
-------------
+---------d---
 
 Question:
 6. What is a state in React?
@@ -66,4 +66,4 @@ B. State provide a way to pass data from one component to another component. Sta
 C. The state is a built-in React object that is used to contain data or information about the component. The state in a component can change over time, and whenever it changes, the component re-renders.
 D. State is a routing library built on top of React, which is used to set values in a React application. 
 
-Answer:
+Answer: c 
